@@ -1,4 +1,4 @@
-This project is meant to be a tutorial for Clement Mihailescu's [Pathfinding Visualizer project]
+Built this project as a path of a tutorial.
 
 ![Found](pathfinding1.png)
 
