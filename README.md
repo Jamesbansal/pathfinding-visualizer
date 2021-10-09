@@ -1,5 +1,9 @@
 This project is meant to be a tutorial for Clement Mihailescu's [Pathfinding Visualizer project]
 
+![Found](pathfinding1.png)
+
+![Finding](pathfinding2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To Run the project: cd to project folder and type npm start and npm run.
